@@ -1,3 +1,11 @@
+
+```
+Build people; not software
+Build context; not documents
+Build value; not lines of code
+Fix root causes; not symptoms
+```
+
 - 👋 Hi, I’m @Incognito (Brian Graham)
 - 👀 I’m presently the founder and coach @ BuildingBetterTeams.de where I work on anything that helps improve tech leadership and overall building of better teams.
 - 🌱 I’m currently learning business stuff like how to build a brand, etc. One day I will have some free space from running the business and get into Rust again.
